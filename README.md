@@ -1,6 +1,5 @@
 # IPL Score Predictor
-
-This Streamlit webapp enables user to predict total runs between teams using current runs and wickets.
+The objective of this project is to perform an in-depth analysis of IPL data to gain insights and predict outcomes. The project involves collecting and cleaning the data. The project covers various aspects like team and player performance, batting and bowling trends, venue analysis. Exploratory data analysis will be carried out using Pandas, NumPy, Matplotlib, Seaborn to identify patterns and correlations in the data, which will help in developing models for predicting match outcomes.
 
 **Algorithms used:**
 
